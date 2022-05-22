@@ -1,0 +1,4 @@
+[debug] [microgrep-build-build] Classpath dependencies List()
+[debug] [microgrep-build-build] Dependencies from configurations List()
+[debug] Bloop wrote the configuration of project 'microgrep-build-build' to 'C:\Users\tukud\projects\Scala\microgrep\project\project\.bloop\microgrep-build-build.json'
+[success] Generated .bloop\microgrep-build-build.json
