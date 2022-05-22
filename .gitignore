@@ -1,4 +1,4 @@
-./target
-./.bloop
-./.bsp 
-./.metals
+target/
+.bloop/
+.bsp/
+.metals/
