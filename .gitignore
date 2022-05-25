@@ -2,3 +2,5 @@ target/
 .bloop/
 .bsp/
 .metals/
+ps/
+project/project/target/
